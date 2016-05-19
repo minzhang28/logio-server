@@ -51,4 +51,4 @@ exports.config = {
 ```
 
 ## Note
-The `-v ${host_cert_folder}:/cert` parameter is OPTINOAL. Only apply it when needed
+The `-v ${host_cert_folder}:/cert` parameter is OPTIONAL. Only apply it when needed
